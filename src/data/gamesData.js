@@ -49,6 +49,13 @@ const gamesData = [
     thumbnail: "https://www.htmlgames.com/uploaded/game/thumb/watersort300200.webp",
     url: "https://cdn.htmlgames.com/WaterSort/",
   },
+  {
+    id: "jungle-sniper",
+    title: "Jungle Sniper",
+    description: "A Game",
+    thumbnail: "https://www.htmlgames.com/uploaded/game/thumb/junglesniper300200.webp",
+    url: "https://cdn.htmlgames.com/JungleSniper/",
+  },
 ];
 
 export default gamesData;
